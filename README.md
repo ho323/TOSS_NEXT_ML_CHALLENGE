@@ -1,7 +1,9 @@
-- 나머지는 각자 폴더에서 
+# TOSS NEXT ML CHALLENGE
+https://dacon.io/competitions/official/236575/overview/description  
+<img width="1877" height="382" alt="image" src="https://github.com/user-attachments/assets/18644147-6326-4a2e-b444-44efe4b270cb" />  
 
-1. main.ipynb에서 HPCN_train.py -> HPCN_inference.py
+---
+## 모델 구조
+<img width="1673" height="929" alt="image" src="https://github.com/user-attachments/assets/e548847f-4b32-4607-9d16-b31323ba7f5b" />  
+<img width="1674" height="932" alt="image" src="https://github.com/user-attachments/assets/d8d9a9cf-387a-4b8a-b73d-4a783bb87bde" />
 
-2. Hybrid_GDCN_train.ipynb -> Hybrid_GDCN_inference.ipynb
-
-3. XGB_train.ipynb-> XGB_inference.ipynb -> inference.ipynb
