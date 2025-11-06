@@ -1,4 +1,5 @@
 # TOSS NEXT ML CHALLENGE
+팀명: 도지코인  
 https://dacon.io/competitions/official/236575/overview/description  
 <img width="1877" height="382" alt="image" src="https://github.com/user-attachments/assets/18644147-6326-4a2e-b444-44efe4b270cb" />  
 
